@@ -1,5 +1,5 @@
 # Introduction
-This repo lets you train [char-rnn](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) with Glassdoor reviews of [Aselsan](https://www.glassdoor.com/Reviews/Aselsan-Reviews-E41213.htm), [TAI](https://www.glassdoor.com/Reviews/Turkish-Aerospace-Industries-Reviews-E326234.htm), [Turkcell](hhttps://www.glassdoor.com/Reviews/Turkcell-Reviews-E9709.htm) and [Turkish Airlines](https://www.glassdoor.com/Reviews/Turkish-Airlines-Reviews-E13316.htm)
+This repo lets you train [char-rnn](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) with Glassdoor reviews of [Aselsan](https://www.glassdoor.com/Reviews/Aselsan-Reviews-E41213.htm), [TAI](https://www.glassdoor.com/Reviews/Turkish-Aerospace-Industries-Reviews-E326234.htm), [Turkcell](https://www.glassdoor.com/Reviews/Turkcell-Reviews-E9709.htm) and [Turkish Airlines](https://www.glassdoor.com/Reviews/Turkish-Airlines-Reviews-E13316.htm)
 
 Refer to [demo notebook](<https://github.com/fcakyon/glassdoor-review-textgenrnn/tree/main/notebook/demo.ipynb>) for sample usage.
 
