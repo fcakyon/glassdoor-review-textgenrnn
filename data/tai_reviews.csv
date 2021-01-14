@@ -1,0 +1,600 @@
+date,employee_title,location,employee_status,review_title,helpful,pros,cons,advice_to_mgmt,rating_overall,rating_balance,rating_culture,rating_career,rating_comp,rating_mgmt,recommends,positive_outlook,approves_of_CEO
+Sun Nov 01 2020, Data Analyst,"New York, NY",Former Employee ,Average,0,"#1 Aviation Company in Turkey
+","Not a dynamic company. Slow work processes
+Helpfu",,3.0,1.0,2.0,1.0,1.0,4.0,Doesn't Recommend,Neutral Outlook,
+Wed Jan 06 2021, Engineer,,Current Employee ,Good Company to Work,0,"lots of thing to learn, good salary for juniors
+","long working hours, long commute time
+Helpfu",,5.0,,,,,,,,
+Tue Jan 05 2021, Material and Process Engineer,Ankara,Current Employee ,M&P,0,"Exciting , engineering, projects are cool
+","Bad location, bad managers and hectic work environment
+Advice to Management
+Change yourself
+Helpfu","Change yourself
+Helpfu",4.0,2.0,4.0,2.0,2.0,4.0,Doesn't Recommend,Neutral Outlook,
+Tue Dec 22 2020, Procurement Specialist,Ankara,Former Employee ,Good,0,"Salary, lunch, free shuttle service
+","Too much Engineers working for company
+Helpfu",,4.0,3.0,5.0,2.0,3.0,4.0,Recommends,Positive Outlook,
+Sun Dec 13 2020, Human Resources Coordinator,Ankara,Current Employee ,Turkish Arespace,0,"A techcnology center of Turkey
+Increasing the enginnersing capabilites
+5th generations Aicraft Projects...
+","Developing organisations
+There are some organisational drawbacks
+Advice to Management
+leader must be more empatatic and they must give importance choching an mentoring
+Helpfu","leader must be more empatatic and they must give importance choching an mentoring
+Helpfu",5.0,4.0,4.0,4.0,5.0,4.0,Recommends,Positive Outlook,
+Sun Dec 06 2020, Hpc Systems Administrator,Ankara,Current Employee ,Good Option in Ankara,0,"-Better salary than most companies in Ankara
+-Flexible work hours
+","-Far complex from city center
+Helpfu",,4.0,,,,,,,,
+Tue Nov 24 2020, Quality Engineer,,Former Employee ,Sector Leader of the Country,0,"good job related- training opportunities , friendly employees
+","stressful work environment can sometimes be exhausting
+Helpfu",,4.0,,,,,,Recommends,,
+Sat Nov 28 2020, Engineer,Ankara,Former Employee ,Indian System,1,"Pays more than average salary
+","Selfish employees, bad management, and terrible HR department.
+Helpful (1",,2.0,1.0,1.0,1.0,2.0,2.0,Doesn't Recommend,Negative Outlook,
+Sun Nov 08 2020, Senior Manufacturing Engineer,Ankara,Current Employee ,Great opportunity for a first job experience.,0,"Wide range of manufacturing capabilities.
+","Management weaknesses at basic wrights.
+Helpfu",,3.0,1.0,2.0,2.0,2.0,3.0,Recommends,Neutral Outlook,
+Sun Oct 25 2020, Design Engineer,,Current Employee ,arbitrary,0,"getting experience, advanced systems, good working environment
+","long distance to the city, long working hours
+Helpfu",,3.0,,,,,,,,
+Fri Oct 23 2020, Supportability Engineer,Ankara,Current Employee ,Weak,0,"Salary is medium, workload is avarage
+","Too many people and forcing management
+Helpfu",,2.0,,,,,,,,
+Thu Nov 12 2020, Senior Financial Specialist,Ankara,Current Employee ,Don't!,0,"There are some people who are worth talking to.
+","Workplace harassment with total impunity. Incompetent managers. Mostly maltreatment and depressed co-workers.
+Advice to Management
+Get rid of bad managers. Stop rampant workplace harassment. Improve physical conditions of workspaces.
+Helpfu","Get rid of bad managers. Stop rampant workplace harassment. Improve physical conditions of workspaces.
+Helpfu",1.0,1.0,1.0,1.0,1.0,2.0,Doesn't Recommend,Negative Outlook,
+Tue Oct 06 2020, Senior IT Specialist,Ankara,Current Employee ,good company,0,"good in relations and good salary
+","there is no time to for family
+Helpfu",,4.0,2.0,4.0,4.0,4.0,4.0,Recommends,Neutral Outlook,
+Mon Oct 19 2020, Software Engineer,Ankara,Current Employee ,Ask to your employer about whether they sign the contract or not.,0,"The single government-led company which produces spacecraft and aircraft.
+","Doesn't respect people and understand their value.
+Helpfu",,3.0,2.0,2.0,2.0,5.0,3.0,Doesn't Recommend,Negative Outlook,
+Wed Sep 16 2020, Design Engineer,,Current Employee ,Working at TAI,0,"Competitive salary, special health insurance
+","Long projects, Long bus ride
+Helpfu",,4.0,,,,,,,,
+Mon Oct 19 2020, Design Engineer,Ankara,Current Employee ,meh,0,"nothing interesting really, salary is meh due to disasterous economy
+","everything else in the company
+Helpfu",,1.0,,,,,,,,
+Wed Sep 09 2020, Quality Assurance,,Current Employee ,Quality in TAI,1,"Good company to work, good employers, lots of opportunity to learn and improve, well paid
+","Changing company structure and organization, managers which are not qualified
+Advice to Management
+Make employers feel their importance, be fair, appretiate the work experince rather than the BS or MS, benedit from knowledge of experinced employers
+Helpful (1","Make employers feel their importance, be fair, appretiate the work experince rather than the BS or MS, benedit from knowledge of experinced employers
+",4.0,3.0,3.0,5.0,5.0,1.0,Recommends,Negative Outlook,
+Sun Aug 02 2020, Software Design Engineer,Ankara,Former Employee ,Depends on the team,0,"Competitive salary for juniors. Good perks. Nice people in some teams.
+","For highly skilled mediors or seniors low salary because it depends on your years of experience. Some teams have bullies basically, you should choose wisely and be lucky.
+Advice to Management
+Skill rated salary should be implemented. Strict rules against bullying should be applied too.
+Helpfu","Skill rated salary should be implemented. Strict rules against bullying should be applied too.
+Helpfu",2.0,4.0,3.0,3.0,4.0,3.0,Recommends,Neutral Outlook,
+Sun Jun 14 2020, Avionics Systems Engineer,Ankara,Current Employee ,One of the best of the country,0,"Good salary
+Big company
+Culture
+Foods
+Working in the newest technologies
+","bureaucracy 
+Slow work style
+not open to new ideas
+Working hours
+Helpfu",,4.0,3.0,4.0,5.0,4.0,2.0,Recommends,Positive Outlook,
+Tue May 05 2020, Senior Electrical Design Engineer,Ankara,Current Employee ,One of the best,0,"corporate company, competative salaty, health insurance
+","hard to promote,promotion is not always based on open competition
+Helpfu",,4.0,4.0,3.0,4.0,4.0,3.0,Recommends,Positive Outlook,
+Sun Apr 05 2020,Anonymous,,Current Employee ,Working in TAI,0,"From satellite to helicopters; TAI has huge variety of products and it gives employees to work on different aspects of aerospace industry
+","Old managers; there are a lot problems regarding generations difference
+Advice to Management
+More freedom for employees
+Helpfu","More freedom for employees
+Helpfu",4.0,3.0,3.0,4.0,4.0,2.0,Recommends,Positive Outlook,
+Thu Mar 19 2020, Software Design Engineer,Istanbul,Current Employee ,Not a bad Place,0,"- A place with Prestige 
+- Important Projects
+- Allowing higher education
+","- Very bossy place
+- Sometimes not respect the employees
+Advice to Management
+- Listen to your employees
+Helpfu","- Listen to your employees
+Helpfu",3.0,4.0,3.0,3.0,3.0,1.0,Doesn't Recommend,Negative Outlook,
+Mon Feb 10 2020, Project Engineer,,Current Employee ,The biggest aerospace company of Turkey,0,"- Good benefits
+- Opportunity for rotation
+- Working with many foreign and local companies
+","- Campus is huge
+- Departments are too crowded with few people actually doing the work
+- Political setting in Turkey
+Helpfu",,3.0,2.0,1.0,3.0,5.0,1.0,Doesn't Recommend,,
+Sun Jan 26 2020, Design Engineer,Istanbul,Current Employee ,Best in Turkey,0,"Health insurance, above average salary, a salary bonus in every 3 months
+","Avarage management, slow industry, low vacation time
+Helpfu",,4.0,4.0,4.0,4.0,5.0,4.0,Recommends,Positive Outlook,
+Sun Feb 09 2020, Software Engineer,Ankara,Current Employee ,About TAI,0,"Nothin but being national company
+","no social oppurtinities
+no career goal and project management 
+very bad and old offices
+Helpfu",,1.0,1.0,1.0,1.0,1.0,1.0,Doesn't Recommend,Negative Outlook,
+Fri Dec 20 2019, Program Leader,Ankara,Current Employee ,"Good,",0,"Powerfull, Focus Company, High Technology
+","Unwieldy, Tons of unexperienced employees
+Helpfu",,5.0,3.0,2.0,5.0,4.0,2.0,Recommends,Positive Outlook,No opinion of CEO
+Mon Jan 13 2020, Design Engineer,Ankara,Current Employee ,Hard working conditions,0,"Good Salary, good friendships among former workers.
+","Tons of inexperienced employees and managers. So much bureaucracy. Far away from city and challenging working hours.
+Helpfu",,1.0,1.0,1.0,1.0,3.0,2.0,Doesn't Recommend,Negative Outlook,
+Sun Dec 22 2019, Project Manager,Ankara,Former Employee ,"chief engineering, manufacturing engineering at F16 and Airbus projects",0,"aerospace industry, special products, ability to work with international companies
+","working hours, crowded places, mismanagement, lack of value to person
+Helpfu",,3.0,3.0,3.0,2.0,3.0,2.0,Recommends,Neutral Outlook,
+Mon Sep 09 2019, Software Design Engineer,Ankara,Current Employee ,Experiences in 3 different department in 3 years,0,"-Great salary
+-Side benefits
+-Job security
+-Transportation and cafeteria
+-Silent work environment
+","-Work performance
+-Less professional work environment
+Helpfu",,4.0,3.0,3.0,3.0,5.0,4.0,Recommends,Positive Outlook,
+Fri Aug 09 2019, Project Manager,Ankara,Current Employee ,leading various multi-disciplinary teams to design and manufacture aerospace systems,0,"talented team members, getting experience in advanced systems, good salary
+","hierarchy, slow process, less training opportunities
+Helpfu",,5.0,4.0,4.0,4.0,5.0,3.0,Recommends,Positive Outlook,
+Tue Aug 13 2019, Systems Engineer,Ankara,Current Employee ,Hard working conditions,0,"Salary is good compared to other companies
+","45 weekly working hours is very hard for work life balance and facility location is outside of city. you waste 2 hours on the road everyday. recently high turnover rate between employees
+Advice to Management
+Working conditions should be the first thing to improve
+Helpfu","Working conditions should be the first thing to improve
+Helpfu",2.0,1.0,2.0,3.0,2.0,2.0,Doesn't Recommend,,
+Tue Jul 23 2019, Chief Engineer,,Current Employee ,Working in TAI,0,"Flexible working hours, training programs
+","Too many paper works and quite slow working process
+Helpfu",,4.0,5.0,4.0,4.0,4.0,4.0,Recommends,Positive Outlook,
+Thu Aug 22 2019, Quality,Ankara,Former Employee ,nightmare,0,"Just Salary was good. it was a nightmare.
+","Mobbing, defamations, reduce salary without any notice. FARMVILLE amateurs school.
+Advice to Management
+don't eat governments budget.
+Helpfu","don't eat governments budget.
+Helpfu",1.0,1.0,1.0,1.0,1.0,1.0,Doesn't Recommend,Negative Outlook,
+Sun Jul 28 2019, Manufacturing Engineer,Ankara,Current Employee ,One of the biggest in Turkey,0,"Better salary than its competing firms.
+","Long working hours. Too distant to the city center.
+Helpfu",,3.0,2.0,3.0,2.0,4.0,1.0,Recommends,,
+Tue Jun 04 2019,Anonymous,Ankara,Current Employee ,Stabil work place,0,"It is stabilized, safe and protects employees.
+","Not much dynamic work place, not new techs are used and no easy internet access uring working.
+Helpfu",,4.0,3.0,5.0,4.0,,,,,
+Mon May 27 2019, Design Engineer,Ankara,Current Employee ,Not a good begining,0,"You can learn implementation in Avionic Technology in nowadays and you may have a chance to follow new developments
+","Too much bureaucracy, specific jobs to company, yo may narrow your future area of working, management of QA is not good
+Helpfu",,2.0,2.0,1.0,5.0,2.0,1.0,Doesn't Recommend,Neutral Outlook,
+Sat Jun 15 2019, Senior Systems Engineer,,Current Employee ,TAI,0,"Strong company, government share
+","Location, long working hours, poor social
+Helpfu",,1.0,1.0,4.0,3.0,3.0,2.0,Doesn't Recommend,,
+Tue May 21 2019,Anonymous,,Former Employee ,Project Analyst,0,"It is a structured company with well-known processes
+","there is too much bureaucracy in place, processes are taking a long time to execute.
+Helpfu",,2.0,,,,,,,,
+Wed May 15 2019,Anonymous,,Current Employee ,So So,0,"salary, high tech abilities, leader in turkey for the market, five thousand engineer
+","Corruption, not qualified management, dismotivating environment, working hours
+Advice to Management
+focus on skills rather than political views.
+Helpfu","focus on skills rather than political views.
+Helpfu",2.0,,,,,,,,
+Thu Apr 25 2019, Project Manager,Ankara,Former Employee ,"Very bias management,",0,"Above average fresh graduate salary in Turkey standards.
+","No promotion or salary raise for years.
+Helpfu",,2.0,2.0,1.0,1.0,2.0,1.0,Doesn't Recommend,,
+Sun Mar 31 2019, Engineering Intern,Ankara,Current Employee ,Review of Turkish Aerospace Industry For Humans Wellness,0,"Salary is good :) Different place to work (Istanbul, Ankara etc.). The Ankara campus is like a technological village.
+","The firm has is own missions, and to achieve this, employees work hard.
+Advice to Management
+More working doesn't mean more achievement, people must rest to do their best.
+Helpfu","More working doesn't mean more achievement, people must rest to do their best.
+Helpfu",4.0,3.0,5.0,5.0,5.0,5.0,Recommends,Positive Outlook,
+Thu Mar 28 2019,Anonymous,,Current Employee ,Good,0,"The company has great potential
+Good working environment
+","Internal systems could be improved
+Helpfu",,5.0,5.0,5.0,5.0,5.0,5.0,,,
+Wed Apr 10 2019,Anonymous,,Former Employee ,Getting bigger and bigger everyday,0,"TAI (with new name Turkish Aerospace) is the oldest and biggest aerospace company in Turkey. They are expending so fast, every week more than 100 person starts in company. There are a lot of different projects and tons of different departments. Some departments and projects work in world class quality due to the customers like Boeing and Airbus, but some other departments cannot reach that level and managed poorly. Huge funds are given by government so their future is 
+- Pays well enough considering market average.
+- Facility in Ankara has good employee services like fitness, housing, hospital, school, parks, ideal to leave if you do not mind being far away from social activities or city center.
+- If hired by a good department there is so much opportunities to learn and develop yourself, perfect for new graduates.
+- Funding for most projects especially domestic ones are huge and this will bring world class training and travel opportunities.
+- Working in a Boeing, Airbus or similar big projects makes you a ideal candidate for jobs located in foreign countries and ease moving out of country.
+- Company encourages further education (masters and doctorate) as long as you prove that this will an asset for company in the future. 
+- Health insurance package is over the market average.
+","- Company does not have an independent modern management system, it is controlled by government and this will effect upper management assignments, not all managers have required skills.
+- There is a clear favoritism for most of non technical positions, sometimes for technical positions as well.
+- There is too much circulation, skilled people choose to live company after getting enough experience.
+- If you experience problems in your department, most of the time they do not let you to move another department, moving inside company is limited unless you are really needed by more important department.
+- There are too much unskilled and under performanced staff, most of them can work in company until retirement unless they do something illegal or highly immoral. This reduces the efficiency and also reduces the motivation of people who shows good performance. 
+- There is a huge pressure on employees due to tight deadlines, especially projects related with domestic products which are used by government as a political material during election periods.
+- Working hours are 45 hours per a week, not the best in market.
+Helpfu",,3.0,2.0,1.0,3.0,3.0,1.0,Doesn't Recommend,Positive Outlook,
+Sun Mar 10 2019, Design Engineer,Ankara,Former Employee ,Design Engineer,0,"Good payment and good side benefits
+","Executives are strongly depended to political stuff
+Helpfu",,4.0,4.0,1.0,1.0,4.0,1.0,Doesn't Recommend,Negative Outlook,
+Wed Feb 06 2019, Design Engineer,Ankara,Current Employee ,"worsening working conditions, too long work hours",0,"above average salary (but below or average for defense industry)
+","too long work hours,
+constant worsening of working conditions,
+far from the city & transportation is an issue,
+they treat engineers as physical workers,
+very static and boring working environment
+Helpfu",,3.0,2.0,3.0,4.0,4.0,2.0,Negative Outlook,,
+Sat Jan 19 2019, PPC Specialist,Ankara,Current Employee ,Production Planning and Control Expert,0,"one of the biggest companies in Ankara
+aviation
+","too far from citycentre
+working hours
+Helpfu",,4.0,3.0,4.0,4.0,5.0,3.0,,,
+Fri Jan 25 2019, Mechanical Engineer,,Current Employee ,good place for aerospace and mehcanical engineers,0,"only aerospace company at Turkey 
+good salary
+","incapable managers
+unfair decisions
+too long working hours
+Helpfu",,3.0,1.0,3.0,2.0,3.0,1.0,Doesn't Recommend,Negative Outlook,
+Mon Feb 11 2019, Software Design Engineer,,Current Employee ,High work hours and bad management,0,"Good domain.
+Low risk to get fired.
+Good health insurance.
+","Work hours are too long. Too strict hours and policy that do not allow you to educate graduate programs. Bad managers and management. Bad processes to develop software. New ideas do not get supportive behaviour from managers. No special life respect. Less amount of experienced employees than un experienced.
+Helpfu",,1.0,1.0,2.0,2.0,4.0,2.0,Doesn't Recommend,Negative Outlook,
+Wed Jan 02 2019,Anonymous,Ankara,Current Employee ,Design engineer,0,"Tai has many promising platforms
+","Hiring too many unexperienced people, firing many experienced people, high turn over, no clear career path, political decision making, lack of smart management, long office hours, lack of quality in work environment and people
+Helpfu",,2.0,1.0,2.0,2.0,3.0,1.0,Doesn't Recommend,Negative Outlook,
+Sun Dec 23 2018,Anonymous,,Current Employee ,average,0,"Multi-disiplinary and skilled personel environment
+","Low salary for the experienced positions
+Helpfu",,3.0,3.0,2.0,3.0,3.0,2.0,Recommends,Negative Outlook,
+Wed Nov 21 2018,Anonymous,,Current Employee ,Design Engineer,0,"Above country average salary.
+Many things to learn.
+","No work-life balance
+Project management skill set is low.
+Endless re-organizations.
+Helpfu",,2.0,1.0,2.0,2.0,4.0,1.0,Doesn't Recommend,,
+Sat Oct 27 2018,Anonymous,Ankara,Current Employee ,Contracts Manager,0,"People, environment, benefits, industry, climate
+","Long hours, location, travel benefits
+Helpfu",,5.0,4.0,5.0,5.0,5.0,5.0,Recommends,Positive Outlook,
+Sat Nov 03 2018,Anonymous,,Current Employee ,Design Engineer,1,"There are many departments to work on from satellite divisipon to helicopter
+","There are so much unplanned activities and time-press
+Helpful (1",,2.0,2.0,2.0,3.0,2.0,2.0,Doesn't Recommend,,
+Fri Nov 02 2018,Anonymous,Ankara,Former Employee ,Software Engineer,0,"medium salary, easy job, less stress
+","very slow company, no vision, lots of useless people around
+Helpfu",,3.0,3.0,1.0,2.0,3.0,1.0,Doesn't Recommend,Negative Outlook,
+Tue Oct 16 2018,Anonymous,"Kazan, Ankara",Former Employee ,Best Place to Work in Ankara,0,"Working with the kindest people in that city. 
+Lots of opportunities to travel aboard. 
+Periodic salary increase and bonuses.
+Most things about your future will be clear, no surprises.
+","After a while it gets depressing to make the same job over and over again.
+Old management decisions are not satisfactory.
+Some managers seem to be directly under the control of higher level managers.
+Helpfu",,5.0,5.0,5.0,3.0,5.0,4.0,Recommends,Positive Outlook,
+Sun Oct 07 2018, Stress Engineer,Ankara,Current Employee ,Ok place to work,0,"Good pay
+Flexible work hours
+Overtime is paid
+","No room for growth
+Long commute
+Helpfu",,3.0,3.0,2.0,2.0,3.0,2.0,Doesn't Recommend,Neutral Outlook,
+Sun Sep 23 2018, Engineer,Ankara,Current Employee ,Great Dreams,0,"Target projects are really exciting
+","Growing too fast causes organizational problems
+Helpfu",,4.0,3.0,3.0,4.0,4.0,3.0,Recommends,Positive Outlook,
+Sun Sep 23 2018, IT Software Engineer,"Keçiören, Ankara",Current Employee ,IT Engineering Software Management,0,"Best Turkish Aerospace Industry Corporation
+","No career path for an engineer
+Advice to Management
+Trust us, we are an engineer
+Helpfu","Trust us, we are an engineer
+Helpfu",3.0,4.0,3.0,3.0,4.0,3.0,Doesn't Recommend,Negative Outlook,No opinion of CEO
+Sat Sep 22 2018,Anonymous,Ankara,Former Employee ,Manufacturing Engineer,0,"Good salary compared to country average
+","hard to improve engineering skills
+Helpfu",,2.0,3.0,3.0,2.0,3.0,1.0,Doesn't Recommend,Negative Outlook,
+Fri Sep 21 2018,Anonymous,,Former Employee ,just ok,0,"working 
+times
+benefits
+Culture & Values
+Glassdoor the most trusted place to find
+","social funds
+open career oportunities
+Helpfu",,3.0,3.0,4.0,4.0,3.0,3.0,Doesn't Recommend,Negative Outlook,
+Fri Aug 31 2018,Anonymous,Ankara,Current Employee ,TAİ,0,"One of the best employees of Turkey
+","To much bureaucracy, you easily get a promotion if you know persons, otherwise it sucks
+Helpfu",,5.0,3.0,4.0,4.0,3.0,2.0,Recommends,Neutral Outlook,
+Sun Aug 26 2018,Anonymous,N/A,Former Employee ,Nice campus,0,"Competitive salary, nice campus, friendly environment
+","Away form city, lots of redtape
+Helpfu",,4.0,,,,,,,,
+Mon Aug 20 2018, Senior Engineer,Ankara,Current Employee ,Good place to work,0,"Good environment for newly graduates to learn
+","Location, far from city about 40 kms
+Helpfu",,4.0,3.0,4.0,4.0,4.0,3.0,Recommends,Positive Outlook,
+Fri Aug 17 2018,Anonymous,,Former Employee ,TAI,0,"Good place to improve skills in aerospace industry
+","Not enough fair to promote employees
+Helpfu",,4.0,3.0,4.0,3.0,4.0,3.0,Recommends,,
+Tue Aug 14 2018, Mechanical Engineering Co,Ankara,Current Employee ,Get experienced on thermal aspects of a satellite design.,0,"The company is willing to do new projects, that's why anybody can improve himself/herself here.
+","You can be left alone with the whole workload.
+Advice to Management
+Should be more selective when deciding on new employees
+Helpfu","Should be more selective when deciding on new employees
+Helpfu",4.0,3.0,4.0,4.0,4.0,3.0,Recommends,Positive Outlook,Approves of CEO
+Sat Aug 11 2018, Senior Design Engineer,Ankara,Current Employee ,UAV Department Review,0,"- Deal with real world problems
+- Satisfaction guarantee for designers
+","- Disgrace project planning
+- Always chaotic enviroment
+Helpfu",,4.0,2.0,2.0,3.0,3.0,3.0,Recommends,,
+Tue Aug 07 2018,Anonymous,Ankara,Former Employee ,Procurement Specialist,0,"High-tech, exciting projects
+Dynamic work
+Lots of opportunities to learn new things
+","Hierarchy is riddicilously strong
+You are expected to work overtime
+Helpfu",,4.0,2.0,4.0,4.0,3.0,2.0,Recommends,Neutral Outlook,
+Sun Jul 22 2018,Anonymous,,Former Employee ,Project Management Specialist,0,"Good work environment, good campus
+Prestigious company
+","Biased senior management
+Poor meeting management
+Helpfu",,3.0,4.0,4.0,4.0,5.0,2.0,Recommends,Positive Outlook,
+Sun Jul 15 2018,Anonymous,,Current Employee ,good place to work,0,"flexible working hours, good payment, new things to learn
+","no additional benefits, management is not fair, long working hours
+Advice to Management
+nothing
+Helpfu","nothing
+Helpfu",3.0,3.0,3.0,3.0,3.0,3.0,Recommends,Neutral Outlook,
+Sun Jul 15 2018, Software Engineer,Ankara,Former Employee ,tai,0,"being able to learn developing do-178b software
+","old software development environment, hard to move to the newer technologies
+Helpfu",,3.0,1.0,1.0,2.0,4.0,2.0,Doesn't Recommend,Neutral Outlook,
+Thu Jul 12 2018, Thermal Engineer,Ankara,Current Employee ,Aerospace Company in Ankara,0,"High salary, flexible working hours
+","Bad management, location is off
+Helpfu",,3.0,3.0,4.0,3.0,4.0,1.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Mon Jun 18 2018,Anonymous,Ankara,Former Employee ,Electrical Design Engineer,0,"The projects are innovative and national.
+","People and environment is manipulative.
+Helpfu",,3.0,,,,,,,,
+Sat Jun 02 2018,Anonymous,,Current Employee ,Work enviorement,0,"Nice place to work here
+","Campus away from the city
+Helpfu",,5.0,,,,,,,,
+Tue Jun 12 2018, Design Engineer,Ankara,Former Employee ,not a good experience,0,"Well organized, good salary, introvert enviroment (if you like it, me not so much)
+","Too stable, slow decision making system, a way crowded
+Advice to Management
+observe more
+Helpfu","observe more
+Helpfu",2.0,1.0,2.0,1.0,3.0,2.0,Doesn't Recommend,Neutral Outlook,
+Wed May 30 2018,Anonymous,,Current Employee ,Systems Engineer,0,"There are plenty of growth opportunities and the business is global.
+","poor salary, politics inside the company
+Helpfu",,3.0,3.0,3.0,3.0,3.0,3.0,Recommends,Neutral Outlook,
+Sun May 13 2018, Quality Assurance Engineer,Ankara,Current Employee ,only salary is fine,0,"salary is fine for standards of turkey
+","lunch is not good
+too many hours to work for
+not adequate for promotions
+not adequate for business trips
+not adequate for workforce balance
+low educated personnel is promoted
+Helpfu",,3.0,2.0,2.0,1.0,4.0,2.0,Doesn't Recommend,Negative Outlook,
+Wed May 02 2018,Anonymous,,Current Employee ,Senior Engineer,0,"Extensive opportunities, insurance, location Ankara
+","Low raise, in experienced young managers
+Helpfu",,3.0,3.0,2.0,2.0,3.0,2.0,Recommends,Positive Outlook,
+Fri Mar 30 2018, Software Engineer,Ankara,Former Employee ,Good place to start a career.,0,"Short term salary is satistying.
+","Too far from city center + long working hours
+Helpfu",,3.0,3.0,3.0,3.0,4.0,3.0,Positive Outlook,,
+Thu Feb 22 2018,Anonymous,,Former Employee ,Proffesional environment but politically unstable,1,"Mostly great and professional working environment
+","Many successful directors and managers and even simple engineers are forced to resign with no obvious reasons.
+Advice to Management
+How many employees can share the same family name with the CEO?
+Helpful (1","How many employees can share the same family name with the CEO?
+",3.0,3.0,2.0,5.0,4.0,,Doesn't Recommend,,
+Thu Feb 08 2018, Systems Design Engineer,Ankara,Current Employee ,"Learned a lot theoretical knowledge. Now, it is time to take action to real practicing!",0,"The cooperation among people are so strong and everyone is ready to help each other about anything if you do not have any idea about a subject.
+","Projects currently worked on are long term projects and that is why learning process and application of your knowledge takes a long time. This causes relatively slower self-development.
+Helpfu",,4.0,3.0,3.0,4.0,4.0,4.0,Doesn't Recommend,Neutral Outlook,No opinion of CEO
+Sun Feb 11 2018, Principal Engineer,,Former Employee ,Unmanned Aircraft Systems Technical Leader,0,"Learning Lot on UAVs by yourself
+","Managers who can not manage and know nothing
+Helpfu",,2.0,1.0,1.0,1.0,1.0,1.0,Doesn't Recommend,Negative Outlook,
+Sun Dec 24 2017,N/A,Ankara,Software Engineer in Ankara,SE Review,0,"- Great colleagues and friendly environment
+- Great salary
+- Great side benefits (free lunch and service facilities)
+","- Hard to get titles 
+- Tons of bureaucracy, you need work at least a year to access all systems you need.
+Advice to Management
+- Need to trust engineers more and give them more freedom on their work
+Helpfu","- Need to trust engineers more and give them more freedom on their work
+Helpfu",4.0,4.0,4.0,3.0,5.0,3.0,Recommends,,
+Thu Jan 04 2018,N/A,Istanbul,Design Engineer in Istanbul,Good choice,0,"Good salary
+High tech environment
+Good composite manufacturing environment
+Experienced tech staff
+","-Under high pressure and control of the government
+-Turkey's political conflicts were observed in the company. (If you are Kurd you can be fired etc.)
+-There is no job security due to these political conflicts.
+-Bad human resource department
+Advice to Management
+-Need professional insight on the projects
+-Try to hold high-quality staff in the company
+Helpfu","-Need professional insight on the projects
+-Try to hold high-quality staff in the company
+Helpfu",3.0,4.0,2.0,3.0,4.0,2.0,Recommends,Negative Outlook,
+Wed Dec 13 2017,Anonymous,,Current Employee ,One of the best employers in Ankara still...,0,"Even though new administration have made some negative changes in company culture still a good option in Ankara.
+","After administrative changes made last year TAI have lost its corporate company culture.
+Helpfu",,2.0,3.0,2.0,3.0,3.0,1.0,Doesn't Recommend,Negative Outlook,
+Wed Nov 22 2017,N/A,, ,TAI Review,0,"Good working environment. Enchances the engineering spirit for interns.
+","Location of the company is out of the city which may cause hour long travel time from the city center
+Helpfu",,4.0,5.0,5.0,,,,Recommends,,
+Tue Oct 31 2017, Tool Design Engineer,,Former Employee ,Tool Design Engineer,0,"It has excellent enviroment, and social oppotunities. It has good salary policy.
+","It was really far from anywhere in the city.
+Helpfu",,4.0,,,,,,,,
+Sun Oct 08 2017, Project Engineer,Ankara,Current Employee ,One of the top firms at Ankara,0,"Being a part of interesting and innovative projects
+Good training and development opportunities
+","Project deadlines are always challenging which can be stressful
+It is expected to work extra hours but the compensation is good
+Helpfu",,4.0,4.0,4.0,4.0,4.0,3.0,Recommends,Positive Outlook,
+Fri Sep 22 2017, Senior Design Engineer,Ankara,Former Employee ,Nice company,0,"Young and dynamic environment, professionals, big campus with lots of facilities, good Payments
+","Sometimes efficiency is low, mangement shoulder be mor open minded
+Advice to Management
+Give more chance to young People
+Helpfu","Give more chance to young People
+Helpfu",4.0,5.0,4.0,4.0,4.0,4.0,Recommends,Positive Outlook,
+Sun Sep 10 2017, Structural Design Engineer,Ankara,Current Employee ,Good place to start. Dead end for seniors,3,"Good place to learn the basics. Benefits.
+","Unfair grading policy. Almost impossible to change your department. Unfair dismissals after new CEO (2016).
+Advice to Management
+They should stop hiring people just for the scale of the company.
+Helpful (3","They should stop hiring people just for the scale of the company.
+",3.0,3.0,2.0,5.0,4.0,1.0,Doesn't Recommend,Neutral Outlook,
+Tue Aug 29 2017,N/A,, ,Variety of projects,0,"Almost always overtime. sometimes exhausting
+","Distribute workload better to increase efficiency
+Helpfu",,3.0,,,,,,,,
+Tue Jun 27 2017, Senior Design Engineer,Ankara,Current Employee ,It's like surveying with a big balloon,0,"The salary is above the average. Supports academic work. Good competence in aircraft manufacturing. Flexible work-hours (depends..)
+","Not success oriented. Promotion is only depends on the years you spent. Managers are not qualified and shifted or changed very frequently. Limited number of design projects. Relies only the government supported projects. Quality of engineers are not good. Mostly, they do very few instead of making mistakes.
+Helpfu",,2.0,1.0,2.0,2.0,3.0,1.0,Doesn't Recommend,Neutral Outlook,
+Tue May 09 2017, Senior Software Engineer,Ankara,Former Employee ,Software Engineering in an Aerospace Company,1,"Pays overtime, childcare for female employees, cheap housing opportunities.
+","Very far from city center, not the best environment for a software engineering job - production and aerospace centric, rigid processes.
+Helpful (1",,3.0,4.0,3.0,3.0,4.0,3.0,Doesn't Recommend,Neutral Outlook,
+Wed May 03 2017, Stress Engineer,Ankara,Current Employee ,Short Pros and Cons in the company,0,and ,"in the company""
+3.0
+★★★★★
+Current Employee - Stress Engineer in Ankara
+Recommends
+I have been working at Turkish Aerospace Industries full-time for more than 10 years
+Pros
+Collaboration in several projects with rewarding aviation companies.
+Cons
+High resistance against innovation and inertial management.
+Helpfu",,3.0,2.0,3.0,3.0,5.0,2.0,Recommends,,
+Thu Mar 16 2017, Chief Engineer,Ankara,Current Employee ,The end of a dream,0,"As an engineer, one of the best places to work for if youbare interested in Aerospace.
+","Promotions depend on various factors and even there are standard procedures, you can promote to a higher level (or not) depending on your manager's decision.
+Advice to Management
+Be beave, take initiatives and support your employees on any subject. Soon, you will see that evertyhing will be better.
+Helpfu","Be beave, take initiatives and support your employees on any subject. Soon, you will see that evertyhing will be better.
+Helpfu",3.0,2.0,3.0,3.0,4.0,3.0,Doesn't Recommend,Positive Outlook,
+Fri Dec 30 2016,Anonymous,"Kazan, Ankara",Current Employee ,Procurement Specialist,0,"Good working conditions, good salary, nice colleagues, one of the best four company in Ankara, free lunch, free transportation
+","Slow, old technology on office equipments, hierarchy, less meetings, less connection between departments, far away from city center, high security control
+Advice to Management
+Connection between management level and employees have to be improved. Treats should be shared more fair. People who are smart and have talent must be selected as a executive candidates instead of the one who has more experience.
+Helpfu","Connection between management level and employees have to be improved. Treats should be shared more fair. People who are smart and have talent must be selected as a executive candidates instead of the one who has more experience.
+Helpfu",4.0,4.0,3.0,3.0,4.0,3.0,Recommends,Neutral Outlook,
+Thu Jan 05 2017,Anonymous,,Current Employee ,There is no justice here in TAI,0,"For salary, it can be said good
+","Management is full of losers
+Helpfu",,3.0,3.0,3.0,3.0,3.0,3.0,Doesn't Recommend,Neutral Outlook,
+Tue Jan 24 2017, Systems Engineer,Ankara,Former Employee ,"Not productive, creative or competitive.",1,"None. There is nothing good about working for this company. Maybe getting a paycheck even when there aren't any project assigned to your team for a long time.
+","No one knows anything. There are hardly ever any projects to work on. Not a great place to gain experience.
+Helpful (1",,1.0,1.0,1.0,1.0,1.0,1.0,Doesn't Recommend,Negative Outlook,Disapproves of CEO
+Mon Dec 19 2016, Senior Technical Specialist,Ankara,Current Employee ,Aerospace and Defence Industry,0,"World quality working environment, new aircarft and helicopter development projects available.
+","I have 25 years of experience in TAI. It's time to shift another company to share my experiences and earn new ones.
+Advice to Management
+hire multi-role engineers
+Helpfu","hire multi-role engineers
+Helpfu",5.0,4.0,4.0,5.0,4.0,4.0,Recommends,Positive Outlook,
+Mon Nov 28 2016,N/A,Ankara,Project Leader in Ankara,One of the best companies in Turkey,0,"Challenging work environment. A product portfolio from aerostructure to satellite. Good for the career opportunities.
+","Fast growing company. No other cons
+Helpfu",,4.0,4.0,4.0,4.0,4.0,4.0,Recommends,Positive Outlook,
+Fri Oct 14 2016,N/A,Ankara,Senior Software Systems Engineer in Ankara,Good place to work for aerospace engineers,0,"Salary, flexible hours, trainning options, good place for aerospace engineers
+","Lack of Career path, subjective criterias for uprise
+Advice to Management
+Please establish Objective rules for career opptunities
+Helpfu","Please establish Objective rules for career opptunities
+Helpfu",4.0,2.0,3.0,4.0,4.0,1.0,Recommends,,
+Sun Oct 02 2016,N/A,, ,Line Maintenance Internship,0,"Peaceful environment with nice people
+","Maintenance workshops should not be this close to the R&D staff.
+Helpfu",,4.0,,,,,,,,
+Thu Sep 29 2016,N/A,, ,Aerospace center of turkey,0,"Good campus, Training opportunities. Stable environment, Job security is high. May work with the state of the art of the technology, depending on the Project and Role. Can do MS and PHD while working.
+","Slow process for employment. Rigid career plan. Location of the campus is far from city center. Company is manufacturing oriented, design engineering experience is relatively low compared to similar World class competitors.
+Advice to Management
+Put some flexibility to career plans. Shuttle within the campus would be good, waste of time walking around. Too many working hours.
+Helpfu","Put some flexibility to career plans. Shuttle within the campus would be good, waste of time walking around. Too many working hours.
+Helpfu",4.0,3.0,4.0,4.0,3.0,3.0,Recommends,Positive Outlook,
+Tue Sep 06 2016,Anonymous,,Current Employee ,good for a start to career,0,"Corporate company with a good system. Not sure if it's a pro or a con but the salary is fixed for each position.
+","Very limited career development opportunities. Not very visionary and it is really hard to show yourself. The company does not have a competitive environment.
+Advice to Management
+You should definitely improve career development opportunities. I know there's been a development recently but it should be further improved.
+Helpfu","You should definitely improve career development opportunities. I know there's been a development recently but it should be further improved.
+Helpfu",4.0,5.0,4.0,3.0,4.0,4.0,Recommends,Positive Outlook,
+Tue Jul 26 2016,N/A,, ,Software Engineer,0,"Working in aviation projects, which is mostly not possible in any other companies in Turkey. So you will be part of indigenous platforms developed.
+","Since a big company, things do not progress quickly, so you should be prepared for the culture. So, productivity decreases because of this.
+Advice to Management
+Please give more chances to bright person. Technical excellence should have more priority than presentation,
+Helpfu","Please give more chances to bright person. Technical excellence should have more priority than presentation,
+Helpfu",4.0,4.0,4.0,4.0,3.0,3.0,Recommends,Positive Outlook,
+Wed Jul 13 2016, Senior Design Engineer,Ankara,Current Employee ,Design engineering,1,"Chance to learn, good place for creativity. Opportunity for trainings. Working with international aerospace companies. New upcoming projects, new open positions and opportunities
+","Bad management. 
+Working place very far from city
+Long working hours.
+Almost no bonuses.
+Very difficult to get promotion.
+Feeling worthless among more than thousand of engineers.
+Helpful (1",,3.0,2.0,3.0,2.0,1.0,1.0,Neutral Outlook,,Disapproves of CEO
+Wed Jun 08 2016,N/A,Ankara,Avionics Engineer in Ankara,Defense and Aerospace Company,0,"You can have a chance to work on various product range from GCS to helikopters UAV's to satellites
+","production based organization, design part is very new.
+Helpfu",,4.0,2.0,3.0,4.0,3.0,3.0,Recommends,,
+Mon Jun 06 2016,Anonymous,,Former Employee ,good place to work in,0,"corporate solid work with a safe work and salary. Interesting projects with a lot to learn from. good facilities. a really nice place to work in
+","nothing really. It is a nice place to work in. the only thing would be human resource career path is not clear for everyone. It is difficult to see where you will be in 5-10 years.
+Helpfu",,4.0,,,,,,,,
+Tue Mar 15 2016,N/A,Ankara,Logistics/Supportability Engineer in Ankara,Good for Turkey,1,"Payment, benefits, company environment, sociality
+","Working hours, promotion, leaders, distance
+Helpful (1",,4.0,4.0,3.0,3.0,4.0,3.0,,,
+Thu Dec 17 2015,N/A,Ankara,Design Engineer in Ankara,Design Engineer,1,"Salary, working environment, benefits, campus
+","Working hours are too much and holidays aren't long enough.
+Advice to Management
+increase holidays, decrease working hours.
+Helpful (1","increase holidays, decrease working hours.
+",4.0,1.0,3.0,3.0,4.0,3.0,Recommends,Neutral Outlook,
+Tue Oct 20 2015, Technical Specialist,Ankara,Current Employee ,Perfect company,0,"High salary. Chance of changing department
+","45 hours of work weekly
+Advice to Management
+-
+Helpfu","-
+Helpfu",5.0,5.0,4.0,5.0,5.0,4.0,Recommends,Neutral Outlook,
+Thu Oct 22 2015,N/A,Ankara,Assistant Design Engineer in Ankara,Poor Management with Inefficient Work Environment,1,"Good salary for new graduates, supports academic research, provides private healthcare services for free in addition to SGK, provides free accommodation near the main campus for five years if you are able to fulfill certain requirements
+","Company is very insufficient at managerial skills. Most of the managers have no idea about managing a team or a group. Mangers lack basic project management skills and cannot take any action when a problem occurs. Company is privately held but the main share holder is the state so the state and the politics are quite effective on the company. Performance evaluation does not exist and there is no feedback for the employees. The main campus is 60 km away from city center and completely isolated from social life. It usually takes 2 hours on the road to reach the work place. Plus, you have to work 10 hours per day and that makes you have to spend 12 hours per day for the company for a salary that is almost minimum wage in Europe. Work environment is also very unproductive. People spend hours for chatting and walking around, which makes the company very insufficient at the end.
+Advice to Management
+An efficient, productive and calm work environment should be provided. Work hours per week should not be more than 35 hours. All technical and non-technical managers should be educated in managerial skills, and tested before promoting to managerial positions. MBA or project management masters degree should be required for the managers.
+Helpful (1","An efficient, productive and calm work environment should be provided. Work hours per week should not be more than 35 hours. All technical and non-technical managers should be educated in managerial skills, and tested before promoting to managerial positions. MBA or project management masters degree should be required for the managers.
+",2.0,1.0,1.0,2.0,2.0,1.0,Doesn't Recommend,Negative Outlook,
+Fri Jul 10 2015, Assistant Design Engineer,Ankara,Current Employee ,Design Engineer,0,"Good salary, extra payments, exciting job, supports master's or doctorate studies
+","Experience may change very sharply from one group to another
+Helpfu",,4.0,3.0,4.0,2.0,4.0,3.0,Recommends,Positive Outlook,
+Wed Feb 25 2015, Senior Software Engineer,Ankara,Current Employee ,Poor RD management but production is fairly mature.,1,"Well institutinalized, fair benefits and salary, flexible work hours for RD engineers, campus, competitive advantage for national projects, guaranteed offset production income based over gov., mil. acquisations
+","New product desing approach and processes are immature. Market positioning is vague. Too tight delivery schedule and over work. Not much promising for experienced engineers.
+Advice to Management
+Loosen effects of in firm politics when making technical desicions. Listen technical personel, consider business rules and market needs over tecnical base but think free of in company politics.
+Helpful (1","Loosen effects of in firm politics when making technical desicions. Listen technical personel, consider business rules and market needs over tecnical base but think free of in company politics.
+",3.0,2.0,3.0,3.0,4.0,2.0,Recommends,Neutral Outlook,No opinion of CEO
+Sun Jan 25 2015,N/A,, ,Lead structural engineer,1,"Lots of projects
+Good salary
+Free lunch
+Bonus at the end of the year
+Training oportunity can be provided
+paid Overtime
+","Forty five haour of work in each week
+Overtime expectations
+No work life balance
+Organisational problens
+Management changes each year
+Helpful (1",,3.0,2.0,4.0,3.0,3.0,3.0,Recommends,Neutral Outlook,
+Sat Aug 23 2014, Stress Engineer,Ankara,Current Employee ,Poor project management,1,"Relaxed working environment, salary is not bad
+","management is unsuccessful, promotions depend only on years of employment, no career plan for employees, working on weekends is considered normal!!
+Advice to Management
+improve project management, each employee should have a career plan in order to keep the motivation high.
+Helpful (1","improve project management, each employee should have a career plan in order to keep the motivation high.
+",2.0,1.0,3.0,1.0,3.0,1.0,Doesn't Recommend,Neutral Outlook,
+Tue Aug 05 2014,N/A,, ,good for money,0,"Salary is better than other companies
+","not good for self improvement
+Helpfu",,4.0,,,,,,,,
+Fri Aug 15 2014, Manufacturing Engineer,Ankara,Former Employee ,"Bad place for rookies, especially for ones who works for production. It is not good place who wants to improve himself",0,"-It is only aerospace company in Turkey ( I don't know whether this a pro)
+-Good benefits for beginners
+","-No self-improvement
+-No justice at management side
+-If you want to make career, it doesn't matter how you work hard. It does matter who you know in the company.
+-Most of managers are incompetence at both technical and management level. Most of them don't know anything about their profession. They can't give anything for their employees.
+Advice to Management
+I have no advice because they don't listen anybody but their huge ego
+Helpfu","I have no advice because they don't listen anybody but their huge ego
+Helpfu",1.0,2.0,1.0,3.0,3.0,,Doesn't Recommend,Neutral Outlook,
+Mon Sep 02 2013, Senior Systems Engineer,Ankara,Current Employee ,"Mediocre management, surprising results",0,"The salary competitive compared to other defense industry companies
+They pay overtime
+","Management is dull and ignorant.
+Because they pay overtime, they think it's their god given right to keep you at work for several hours. 
+They have no software processes. software projects are completed like high school homework assignments.
+Advice to Management
+They should learn modern management systems.
+Helpfu","They should learn modern management systems.
+Helpfu",3.0,2.0,3.0,3.0,4.0,2.0,Recommends,Neutral Outlook,
+Thu May 16 2013, Design Engineer,Ankara,Former Employee ,"aggressive managers,",3,"good enough salary
+prestigious projects
+","30 minutes by car
+gossips, gossips,gossips
+worst human resources ever
+Helpful (3",,2.0,3.0,4.0,1.0,2.0,1.0,Doesn't Recommend,Positive Outlook,
+Mon May 21 2012,N/A,Ankara,Design Engineer in Ankara,-,2,"Aerospace, benefits etc. etc. etc.
+","Organizational injustice, bad management, etc. etc.
+Advice to Management
+-
+Helpful (2","-
+",3.0,2.5,2.0,3.0,2.0,,Doesn't Recommend,,
+Fri Feb 17 2012,N/A,,Software Design Engineer ,Very good experience overall. Chance to work with embedded software for airplanes,0,"- Good Salary
+- Nice work environment
+- Friendly people
+","- Far away from downtown
+Advice to Management
+Check the employers are giving their best or not
+Helpfu","Check the employers are giving their best or not
+Helpfu",4.0,4.0,4.0,4.0,4.0,,Recommends,,
+Fri Sep 02 2011,N/A,Ankara, in Ankara,Good company,0,"Very young and active people with Innovative and intuitive environment
+","Management should improve but this is a young company.
+Helpfu",,4.0,3.0,4.0,3.0,3.0,,Recommends,,
